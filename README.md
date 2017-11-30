@@ -12,12 +12,12 @@ A module for [bitcore](https://github.com/bitpay/bitcore) that implements [Payme
 This library is distributed in both the npm and bower packaging systems.
 
 ```sh
-npm install bitcore-lib
+npm install litecore-lib
 npm install bitcore-payment-protocol
 ```
 
 ```sh
-bower install bitcore-lib
+bower install litecore-lib
 bower install bitcore-payment-protocol
 ```
 

@@ -44,7 +44,6 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "bitcore-lib": "^0.14.0",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
@@ -53,6 +52,7 @@
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
+    "litecore-lib": "^0.13.22",
     "sinon": "^1.17.3"
   },
   "license": "MIT"
